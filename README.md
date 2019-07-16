@@ -1,2 +1,2 @@
 # pytorch-study
-The breif note when I'm studying pytorch
+The brief note when I'm studying pytorch
